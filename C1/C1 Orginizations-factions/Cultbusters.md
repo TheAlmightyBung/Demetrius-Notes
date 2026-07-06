@@ -1,4 +1,4 @@
-The CultBusters
+The Cultbusters
 
 The name we gave to Moyra when she asked for our group name. So thats our party name now.
 
@@ -13,11 +13,11 @@ Past official members
 - [[Aben]]
 - [[Alisha]]
 - [[Reginald]]
-- [[Seraphin]]
+- [[Seraphina]]
 Honorary members
 - [[Dracor]]
 - [[Drayax]]
 - [[Daefaren]]
-- [[Tizlin]]
+- [[C1/C1 Orginizations-factions/Tizlin]]
 - [[Finn]]
 - [[Khione]]
