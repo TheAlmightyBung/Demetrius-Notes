@@ -1,7 +1,7 @@
 
 - Map in a bottle, had to solve two Riddles.
     
-- X marks the spot on Jade Beach, Large wooden chest.
+- X marks the spot on [[Jade Beach]], Large wooden chest.
     
 
 - Empty, has a note and a rock.
@@ -13,7 +13,7 @@
     
 - Tamir, Jayda older brother. Sorta like Dorn
     
-- Things disappear, Mira and the main party is all that is left.
+- Things disappear, [[Mira]] and the main party is all that is left.
     
 - Only things are pillars in the distance
     
