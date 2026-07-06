@@ -1,31 +1,40 @@
-Session 1
+Be nice things look ugly as shit rn. 
 
-Session 2
+All work in progress
 
-Session 3
+Campaign 1 
 
-Session 4
+Jade Beach and the death of Perrin Marrick
+[[Session 1]]
 
-Session 5
+[[Session 2]]
 
-Session 6
+[[Session 3]]
 
-Session 7
+[[Session 4]]
 
-Session 8
+[[Session 5]]
 
-Session 9
+[[Session 6]]
 
-Session 10
+[[Session 7]]
 
-Session 11
+[[Session 8]]
 
-Session 12 
+[[Session 9]]
 
-Session 13
+Time Travel shit begins
 
-Session 14
+[[Session 10]]
 
-Session 15
+[[Session 11]]
 
-Session 16
+[[Session 12]]
+
+[[Session 13]]
+
+[[Session 14]]
+
+[[Session 15]]
+
+[[Session 16]]
