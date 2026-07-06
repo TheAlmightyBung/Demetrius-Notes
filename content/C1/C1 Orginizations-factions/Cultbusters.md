@@ -18,6 +18,6 @@ Honorary members
 - [[Dracor]]
 - [[Drayax]]
 - [[Daefaren]]
-- [[C1/C1 Orginizations-factions/Tizlin]]
+- [[content/C1/C1 Orginizations-factions/Tizlin]]
 - [[Finn]]
 - [[Khione]]
