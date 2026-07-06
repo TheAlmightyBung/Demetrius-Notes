@@ -1,4 +1,4 @@
-Notes for Fionas D&D campaign as written by Demetrius
+Notes for Fiona's D&D campaign as written by Demetrius
 
 [[Demetrius Notes]]
 
