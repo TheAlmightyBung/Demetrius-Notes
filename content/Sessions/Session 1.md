@@ -33,7 +33,7 @@ Session 1
   
     
 
-- The pillars are the teeth of a HUGE [Aberrant](Aberant.md) [Epithet](Epithet). It’s teeth, these pillars have been moving in slowly. The Jaws of this creature moving in.
+- The pillars are the teeth of a HUGE [Aberrant](Aberant.md) [Epithet](Epithet.md). It’s teeth, these pillars have been moving in slowly. The Jaws of this creature moving in.
     
 - The Hole in the lake being its throat.
     
@@ -69,7 +69,7 @@ Session 1
     
 - [[Jayda]]s family is “welcome back home” to [[Bruelethor]]? Asked if she knew the history of her own family.
     
-- [[Great Wyrm]] names, [[Atlas]], [[Freuden]], Procure, Brithwick, Heart.
+- [[Great Wyrm]] names, [[Atlas]], [[Lady Freuden|Freuden]], [[Procure]], Brithwick, Heart.
     
 - Legend of the greatwyrm Heart
     
