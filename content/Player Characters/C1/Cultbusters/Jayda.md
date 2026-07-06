@@ -1,1 +1,0 @@
-Jayda Heart Member of the [[Cultbusters]]

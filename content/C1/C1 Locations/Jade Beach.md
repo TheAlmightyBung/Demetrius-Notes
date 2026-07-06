@@ -1,1 +1,0 @@
-Jade Beach where [[Jayda]] is from
