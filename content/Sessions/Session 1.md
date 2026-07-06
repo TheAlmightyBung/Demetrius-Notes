@@ -54,7 +54,7 @@ Session 1
     
 - [[Bimuna]] is trapped in this [[Aberrant]] [[Epithet]]
     
-- [[Bimuna]] is [[Drayax]]s Patron, “he always tries to escape, but he always comes back.”
+- [[Bimuna]] is [[Drayax 1]]s Patron, “he always tries to escape, but he always comes back.”
     
 - She knows [[Jayda]] is missing her sister
     
