@@ -2,4 +2,4 @@ Index, Index
 
 [[Demetrius Notes]]
 
-[[Google Doc Notes]]
+[[content/Index/Google Doc Notes]]

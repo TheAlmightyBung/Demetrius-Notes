@@ -60,7 +60,7 @@ Session 1
     
 - [[Briri]] is also down in the belly
     
-- Seek the [Bruelethor](content/Locations/C1/Brulethor.md) vault, outside time and space. Pocket beyond reality. Trusest dragons horde, why the dragons stayed here.
+- Seek the [Bruelethor](Brulethor.md) vault, outside time and space. Pocket beyond reality. Trusest dragons horde, why the dragons stayed here.
     
 - What lies in the vault will save her sister, and Bimuna. Says Bimuna
     
