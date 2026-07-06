@@ -19,7 +19,7 @@
     
 - In the hole is an abyss with clouds, and a mountain?
     
-- Aberrant magic is what is taking place, feels like when we gave briri the loadstone.
+- Aberrant magic is what is taking place, feels like when we gave Briri the loadstone.
     
 - Momma heart, said these pillars grew from the ground, the same time the hearts showed up.
     
