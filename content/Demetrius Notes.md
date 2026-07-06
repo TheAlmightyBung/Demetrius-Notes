@@ -2,7 +2,7 @@ Be nice things look ugly as shit rn.
 
 All work in progress
 
-Campaign 1 
+# Campaign 1 
 
 Jade Beach and the death of Perrin Marak
 [[Session 1]]
