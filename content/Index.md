@@ -1,5 +1,5 @@
 ---
-title: Index
+title: notes for demetrius shit
 ---
 Here you can find the notes written by Demetrius, for Fionas D&D campaign.
 
